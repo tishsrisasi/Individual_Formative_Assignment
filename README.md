@@ -3,6 +3,7 @@ Individual Formative Assignment: Python ETL and Visualisation
 
 ### Read Me
 Project_Read-Me_Final (Word Document)
+README2 - the above file but in MarkDown format
 
 ### File Order (Jupyter Notebook format):
 1. CleanMyData_New
