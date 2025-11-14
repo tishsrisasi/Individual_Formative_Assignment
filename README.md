@@ -22,6 +22,9 @@ Individual Formative Assignment: Python ETL and Visualisation
 ### Data Dictionary
 data_dictionary.xlsx
 
+### Sample Dataset Spot-checking file (Excel Format)
+data_checks_using_Excel (also includes Feature Engineering data groups)
+
 (there was a problem with the embedded Data Dictionary in below MarkDown - for this please use the Word version as listed above)
 
 ### Miro Invite link
@@ -332,3 +335,4 @@ You tell your friend the following as an answer to "Can we use Global Finance Da
 - The sample dataset, albeit limited, was shown as legitimate for every level of the analysis and she would be able recognise the data pattern from which her new business model could use it to eventually prediction of Global ETF prices.
 
 - However, to do so will need further work done, beyond the limitations of this initial analysis.
+
