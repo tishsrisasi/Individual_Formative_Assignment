@@ -261,11 +261,11 @@ Like with the country credit ratings analysis, after carrying out the initial ch
 
 #### Key Correlation Analysis & Economic Data Review
 
-### **What you need to do:**
+**What you need to do:**
 
 This is where you'll do most of your data analysis work: reviewing which economic factors are correlated with each other and finding both strongly positive and negative correlations. You will also look at some of the economic percentages ranges to see how well their data fits overall with your ideas about the regular and irregularity of movement distribution pattern (perception of normal vs irregular changes in the percentage values).
 
-### **Why you need to do it:**
+**Why you need to do it:**
 
 From your research into Global Index ETFs, you find out they are influenced by economic factors (like for example, the country's interest and inflation rates). ETFs pricing and value are also determined by two or more economic factors either moving the same way (positively correlated) or moving in opposite directions (negatively correlated). Here, you will only look at cases where factors are strongly correlated to find out if your data corresponds to what you find from your research into ETFs.
 
@@ -285,11 +285,11 @@ You will then use visualization, for each country group, the distribution of key
 
 At this point, you also think it would be helpful if the sample dataset your friend provided to you had a range of Global Index ETF prices as you could use it to feed some Machine Learning models, which will also help with this and other parts of your analysis, however she did say use this sample set to prove the value of data analysis and you can also persuade her to go down the ML path at some later point
 
-### **Research Summary table: Correlation of Economic Indicator Pairing and its impact on Global Index ETF pricing.**
+**Research Summary table: Correlation of Economic Indicator Pairing and its impact on Global Index ETF pricing.**
 
 <div class="joplin-table-wrapper"><table><tbody><tr><th><h3><strong>Economic Pair</strong></h3></th><th><h3><strong>Correlation</strong></h3></th><th><h3><strong>Impact on Global Index ETFs</strong></h3></th></tr><tr><td><h3>Inflation vs Interest Rates</h3></td><td><h3>Positive</h3></td><td><h3>Negative</h3></td></tr><tr><td><h3>Inflation Rate vs Bond Yield (10 Yrs)</h3></td><td><h3>Positive</h3></td><td><h3>Negative</h3></td></tr><tr><td><h3>FDI Inflow vs GDP Proxy</h3></td><td><h3>Positive</h3></td><td><h3>Positive</h3></td></tr><tr><td><h3>Inflation Rate vs Export-to-Import Growth rate</h3></td><td><h3>Negative</h3></td><td><h3>Negative</h3></td></tr><tr><td><h3>Interest Rate vs Export-to-Import Growth rate</h3></td><td><h3>Negative</h3></td><td><h3>Negative</h3></td></tr><tr><td><h3>Bond Yield (10 Yrs) vs Export-to-Import Growth rate</h3></td><td><h3>Negative</h3></td><td><h3>Negative</h3></td></tr></tbody></table></div>
 
-### **Your Research Key Points Summary:**
+**Your Research Key Points Summary:**
 
 - When interest and inflation rates rise - bond prices fall, so Global ETFs prices also fall
 - Global Index ETF prices rise is linked to strong GDP growth, increase in foreign investments and healthy trade balances (i.e. export being bigger than your imports).
@@ -299,11 +299,11 @@ At this point, you also think it would be helpful if the sample dataset your fri
 
 #### An Analysis of the Economic figures
 
-### **What you need to do:**
+**What you need to do:**
 
 This is the final bit of your work. Now that the category and ratio analysis is done and behind you, all that's left to do is to showcase the features with actual USD-equivalent amounts for each country in your dataset.
 
-### **Why you need to do it:**
+**Why you need to do it:**
 
 This shouldn't take too long but for completeness you feel that it would be good to analyse, observe and record any findings.
 
