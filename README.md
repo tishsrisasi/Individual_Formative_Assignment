@@ -4,7 +4,7 @@ Individual Formative Assignment: Python ETL and Visualisation
 ### Cheesy, yet inspirational quote:
 _"Logic will get you from A to B. Imagination will take you everywhere."_
 
-(£.A. - a famous theoretical physicist)
+(A.E. - a famous theoretical physicist)
 
 ### Read Me
 - Project_Read-Me_Final (Word Document)
@@ -342,6 +342,7 @@ You tell your friend the following as an answer to "Can we use Global Finance Da
 - The sample dataset, albeit limited, was shown as legitimate for every level of the analysis and she would be able recognise the data pattern from which her new business model could use it to eventually prediction of Global ETF prices.
 
 - However, to do so will need further work done, beyond the limitations of this initial analysis.
+
 
 
 
