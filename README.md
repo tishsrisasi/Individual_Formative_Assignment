@@ -22,6 +22,8 @@ Individual Formative Assignment: Python ETL and Visualisation
 ### Data Dictionary
 data_dictionary.xlsx
 
+(there was a problem with the embedded Data Dictionary in below MarkDown - for this please use the Word version as listed above)
+
 ### Miro Invite link
 https://miro.com/welcomeonboard/blN0N21FTEl5bEFGdEhvaXRlbGRGR2t3R08wamU0UWxDTWRPYXNUbk5rY2F3UFVsRFpIUS93YzduSi9td0p0Si9RazBuTDV6a01UTFF5bVpRa1NwUERzZ0I5Y2lnRDRaUGdEMWlJYlVFTDE3R2ZSd2NXeDlHUE1hY2pPRnFHSHFnbHpza3F6REdEcmNpNEFOMmJXWXBBPT0hdjE=?share_link_id=987847511514
 
@@ -328,4 +330,5 @@ You will then use pivot tables to align the amounts for each country group, use 
 You tell your friend the following as an answer to "Can we use Global Finance Data to determine Global Index ETF pricing?" -
 
 - The sample dataset, albeit limited, was shown as legitimate for every level of the analysis and she would be able recognise the data pattern from which her new business model could use it to eventually prediction of Global ETF prices.
+
 - However, to do so will need further work done, beyond the limitations of this initial analysis.
