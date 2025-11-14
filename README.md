@@ -27,8 +27,6 @@ _"Logic will get you from A to B. Imagination will take you everywhere."_
 ### Data Dictionary
 - data_dictionary.xlsx
 
-(there was a problem with the embedded Data Dictionary in below MarkDown - for this please use the Word version as listed above)
-
 ### Sample Dataset Spot-checking file (Excel Format)
 data_checks_using_Excel (also includes Feature Engineering data groups)
 
