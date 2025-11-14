@@ -19,5 +19,8 @@ Individual Formative Assignment: Python ETL and Visualisation
 1. global_finance_data_cleaned.csv (produced from CleanMyData_New)
 2. global_finance_data_FeatureEng.csv (produced from FeatureEng_New)
 
+### Data Dictionary
+data_dictionary.xlsx
+
 ### Miro Invite link
 https://miro.com/welcomeonboard/blN0N21FTEl5bEFGdEhvaXRlbGRGR2t3R08wamU0UWxDTWRPYXNUbk5rY2F3UFVsRFpIUS93YzduSi9td0p0Si9RazBuTDV6a01UTFF5bVpRa1NwUERzZ0I5Y2lnRDRaUGdEMWlJYlVFTDE3R2ZSd2NXeDlHUE1hY2pPRnFHSHFnbHpza3F6REdEcmNpNEFOMmJXWXBBPT0hdjE=?share_link_id=987847511514
