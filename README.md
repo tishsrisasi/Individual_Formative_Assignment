@@ -63,7 +63,7 @@ Teerachai ("Tish") Srisasi
 - At first, your friend is sceptical and says she doesn't believe it would add any value to her new business venture, as she's 'dead set' on building her new business the 'old school' way. You tell her you think these days it's necessary to do the research, as data analysis could cut her initial hiring costs - she may achieve most of her customer service objectives through automation: using a dashboard to show her clients the information they need for _insights into which Global Index ETF in the market would best suit their investment needs_, with a view to move to Machine Learning/predictive route to future-proof her business later.
 - Your friend is still not fully convinced, but as a _favour_ to and old friend, she sends you a global finance dataset from 2024 and says your goal is to persuade her just by using:
   - Freely available analytic tools - she tells you he can't provide you with any funding (you find out later the data she's provided is feely available on Kaggle, and you also remember that she's always been a bit too 'careful' with her money anyhow).
-  - Just the financial dataset she has provided - your fiend admits a lot of the information is missing (i.e. not all country data is provided nor are the key fields required for a full analysis), and it isn't a time series (it's a snapshot of a particular day in 2024) but she's willing to provide you with more info later on (Global Index ETF prices, more countries, economic info, key ratios etc) if you can show her data analysis adds value to her business venture. She also suggests for missing data - you can derive them from the other columns within the dataset and/or to use a temporary proxy (a substitute value) if needed.
+  - Just the financial dataset she has provided - your friend admits a lot of the information is missing (i.e. not all country data is provided nor are the key fields required for a full analysis), and it isn't a time series (it's a snapshot of a particular day in 2024) but she's willing to provide you with more info later on (Global Index ETF prices, more countries, economic info, key ratios etc) if you can show her data analysis adds value to her business venture. She also suggests for missing data - you can derive them from the other columns within the dataset and/or to use a temporary proxy (a substitute value) if needed.
   - A way to show her your outcome online - so she can see the workings as well as the resulting visuals (as you live and work far away from each other).
 - She shows you her draft business start-up documentation (all very hush-hush still) - and confides in you that her extensive pre-launch customer surveys reveals she'll needs a full analysis of the data below to enable her clients to choose a suitable Global Index ETF:
   - High Level Analysis on Country Credit Ratings
@@ -378,6 +378,7 @@ You tell your friend the following as an answer to "Can we use Global Finance Da
 - The sample dataset, albeit limited, was shown as legitimate for every level of the analysis and she would be able recognise the data pattern from which her new business model could use it to eventually prediction of Global ETF prices.
 
 - However, to do so will need further work done, beyond the limitations of this initial analysis.
+
 
 
 
